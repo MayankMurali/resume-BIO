@@ -1,2 +1,2 @@
-# resume-Bio
+# resume-BIO
 My latest Bioinformatics based resume
